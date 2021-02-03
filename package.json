@@ -1,0 +1,19 @@
+{
+  "name": "binarymarvels_weekly_chart_data",
+  "version": "1.0.0",
+  "description": "arrange array data for today and past 6 days",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "binarymarvels",
+    "weekly chart data arrangement",
+    "arrange chart data"
+  ],
+  "author": "Muhammad Musa Khan",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
