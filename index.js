@@ -1,5 +1,5 @@
-import moment from "moment";
-export default function weeklyGraphFunction(
+const moment = require("moment");
+module.exports = function weeklyGraphFunction(
   array,
   dateName,
   valueName
@@ -130,4 +130,4 @@ export default function weeklyGraphFunction(
   );
 
   return responseData;
-}
+};
